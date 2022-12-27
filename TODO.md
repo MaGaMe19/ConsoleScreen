@@ -1,6 +1,10 @@
 # TODO
-
-- [ ] Prevent player from going off screen  
-- [ ] Add border, controls, etc.  
+**Screen**
+- [x] Prevent player from going off screen  
+- [x] Add border, controls, etc.  
 - [ ] Implement better way of clearing the screen, remove flickering  
+---
+**Game**
+- [ ] Obstacles
+- [ ] "Collision"
 - [ ] Gameplay
